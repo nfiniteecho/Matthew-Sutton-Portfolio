@@ -1,4 +1,4 @@
-This folder contains all work required during my coursework to build one advanced technical paper.
+This folder contains all work required during my coursework to build one advanced technical paper over Public-Key Cryptography.
 
 #### Assignment List:
 1. Write a memo describing the subject of my paper including research strategy and preliminary research
